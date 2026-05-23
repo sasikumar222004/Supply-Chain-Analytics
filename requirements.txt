@@ -1,0 +1,13 @@
+# Supply Chain Analytics — Python Dependencies
+# =============================================
+# Install: pip install -r requirements.txt
+
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+openpyxl==3.1.2
+jupyter==1.0.0
+ipykernel==6.29.4
+scikit-learn==1.5.0
